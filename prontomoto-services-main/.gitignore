@@ -1,0 +1,25 @@
+# Node / Next / functions
+node_modules/
+.next/
+out/
+dist/
+build/ 
+
+# Azure Functions local settings
+local.settings.json
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# Logs, OS files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.vscode/
+.idea/
+
+# Optional: editor temporary files
+*.swp
